@@ -1,3 +1,2 @@
-**help i keep distrohopping**
-was using: Solus OS
-currently using: Manjaro Linux
+#**help i keep distrohopping**
+I mainly write random tools, of varying quality
